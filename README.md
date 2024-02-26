@@ -13,7 +13,7 @@ Finance Tracker is a web application built using ReactJS and Firestore from Fire
 - **Data Storage:** Store expense data securely in Firestore database.
 
 ## Installation
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone  https://github.com/Abhishek-465/Finance-tracker.git`
 2. Navigate to the project directory: `cd finance-tracker`
 3. Install dependencies: `npm install`
 
